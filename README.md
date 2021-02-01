@@ -1,2 +1,2 @@
-# Ahmed-s-Donation
-Donation management system
+# Ahmed's-Donation
+A Donation management system based on Laravel Framework
